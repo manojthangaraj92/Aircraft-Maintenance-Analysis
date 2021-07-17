@@ -1,4 +1,4 @@
-# Using Data Science to help prevent problems on your flights
+# Using Data Science to generate insights on flights problems
 ## Project Description
 
 Have you ever had a flight where your seat won't recline? Or the bathroom was closed? Or even a delay that was justified through unexpected maintenance problems that had to be solved before the aircraft could leave the airport? All of this situations are related to the aircraft maintenance process.
